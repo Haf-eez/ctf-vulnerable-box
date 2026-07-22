@@ -5,6 +5,11 @@ This project is a custom-built Capture The Flag (CTF) virtual machine designed t
 
 It includes 10 challenges across web exploitation, cryptography, network security, forensics, and privilege escalation.
 
+## 📄 Full Technical Documentation
+Detailed report explaining the design, vulnerabilities, and walkthrough:
+
+[Download Full Report](./CTF-Vulnerable-Box.pdf)
+
 ## 🖥️ Environment Setup
 - OS: Ubuntu 20.04 LTS  
 - Network: Host-only (isolated lab environment)  
